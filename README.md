@@ -1,11 +1,11 @@
 
 
-<h2> Hey there! I'm Venkatesh👋</h2>
+<h2> Hey there! I'm Venkateshan👋</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Pursuing B.E degree from PSG College Of Technology,Coimbatore
-- 🌱 &nbsp; Currently learning React,ML,Flutter 
+- 🌱 &nbsp; Currently learning Embedded Systems,VLSI 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
